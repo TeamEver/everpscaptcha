@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_bc42bdfc162f73b4002ff5185cae16b3'] = 'Ever Ps Captcha';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_3c55992eeb77b0cb7fd5bdc31f04bd50'] = 'Protégez votre boutique des spams avec Google ReCaptcha v3 !';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_1c6953f9589740e698daf04803e0c3b1'] = 'Le champ \"Google Site Key\" est requis.';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_397b4ee5de0fa4974965bd6fe77597f0'] = 'Le champ \"Google Secret Key\" est requis.';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_091c7d6c0e0a9f2bcb38eb7b1a6bdcc1'] = 'La configuration a bien été enregistrée';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_4c5f6bfba81444f7c8cf3c6612b980d2'] = 'Ever Ps Captcha Configuration';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_3f066a86a8fe5523d6b6aaf8bc5ff82f'] = 'Google Site Key';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_6da54c742180a887ce0216e910471544'] = 'Veuillez coller ici votre clé publique Google';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_3833d309b731d4377e8a8fa7153e1672'] = 'La clé publique est donnée par Recaptcha';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_127a14a5fd5e21f2f8e4efffa6e67788'] = 'Google Secret Key';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_3547405ce4c9fbb271413f14042fb44b'] = 'Veuillez coller ici votre clé privée Google';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_e0affe84d3af342e52b58e142fd5c243'] = 'La clé secrète Google est donnée par Recaptcha';
+$_MODULE['<{everpscaptcha}prestashop>everpscaptcha_c9cc8cce247e49bae79f15173ce97354'] = 'Enregistrer';
+$_MODULE['<{everpscaptcha}prestashop>footer_673e2cd3b3c832cccbf3aa12855b9d1b'] = 'Ever Captcha';
+$_MODULE['<{everpscaptcha}prestashop>footer_c95654b179622c303e1888b7bee86154'] = 'Merci pour votre confiance ! :-)';
+$_MODULE['<{everpscaptcha}prestashop>footer_672713b9ebcaa2c438970dd65b8a49b5'] = 'N\'hésitez pas à nous contacter pour plus de soutien ou d\'aide';
+$_MODULE['<{everpscaptcha}prestashop>header_673e2cd3b3c832cccbf3aa12855b9d1b'] = 'Ever Captcha	';
+$_MODULE['<{everpscaptcha}prestashop>header_0a154c5012c3cb54ad0bb82a5d79b5ba'] = 'Merci de bien renseigner la configuration du module';
+$_MODULE['<{everpscaptcha}prestashop>header_5c96d1c087f388287fa091121b00627b'] = 'Merci d\'avoir utilisé les modules de Team Ever';
+$_MODULE['<{everpscaptcha}prestashop>header_60e8100300a8b9da5eaa38e9e59c2dd1'] = 'Ce module insère un Google ReCAPTCHA sur Prestashop. Pour utiliser ce module, vous aurez besoin d\'une paire de clés sécurisée.';
+$_MODULE['<{everpscaptcha}prestashop>header_f99d8efc128e196a3f98952205dcbf02'] = 'Pour générer votre paire de clés sécurisée, suivez ce';
+$_MODULE['<{everpscaptcha}prestashop>header_a77e6ffd0af2a11f325b413de80928b2'] = 'Lien Google ReCAPTCHA';
+$_MODULE['<{everpscaptcha}prestashop>header_c4d2324eea35c7e7b51b75f861e319dd'] = 'Comment être le premier sur les pages Google ?';
+$_MODULE['<{everpscaptcha}prestashop>header_923577b3c4bd51ca4c20083fd149c692'] = 'Nous avons créé le meilleur module de référencement, en travaillant avec d\'énormes sites Web et sociétés de référencement';
+$_MODULE['<{everpscaptcha}prestashop>header_4155fbd49af1be337176d442a5ebdeb0'] = 'Voir le meilleur module SEO sur Prestashop Addons';
+$_MODULE['<{everpscaptcha}prestashop>header_4fb704f05a00111d953eb10dddc881d9'] = 'Ce module est gratuit et le sera toujours ! Vous pouvez soutenir nos modules gratuits en faisant un don en cliquant sur le bouton ci-dessous';
+$_MODULE['<{everpscaptcha}prestashop>upgrade_08383ae79f84b34ae838b5d52c7a1558'] = 'Une mise à jour d\'Ever Captcha est disponible sur notre boutique. Vérifiez s\'il vous plaît';
+$_MODULE['<{everpscaptcha}prestashop>upgrade_a43640b6c7cabe3d8d157aba85f7cee4'] = 'pour obtenir la dernière version de ce module';
